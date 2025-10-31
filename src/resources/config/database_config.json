@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "maria": {
+        "user": "lgup4",
+        "password": "lgup4P%40ssw0rd",
+        "host": "211.51.163.232",
+        "port": 19306,
+        "database": "lgup4",
+        "max_pool_size": 20,
+        "max_overflow": 10,
+        "pool_pre_ping": true
+    },
+    "chroma": {
+        "path": ""
+    }
+}
